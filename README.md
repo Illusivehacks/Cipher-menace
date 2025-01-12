@@ -39,6 +39,12 @@ Test features like limited attempts, custom messages, and system behavior.
 
 ![GUI Screenshot](GUI.jpg) 
 
+
+
+
+
+
+
 GUI Layout
 ![GUI Screenshot](output.jpg) 
 
