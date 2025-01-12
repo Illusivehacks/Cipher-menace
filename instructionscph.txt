@@ -1,0 +1,82 @@
+#! /usr/bin python
+# -*- coding: utf-8 -*-
+
+# Importing necessary libraries
+# Import all classes and functions from tkinter for GUI
+# Import tkinter for additional GUI functionalities
+# Import time for time-related functions
+# Import messagebox to show information and warning messages
+# Import partial to create partial functions for button clicks
+# Import functions from an external module for BSOD, startup, and uninstalling functionality
+# Import os to interact with the operating system
+# Import keyboard for keyboard event handling
+# Import sys to access command-line arguments and system-specific parameters
+
+# Initialize the main window
+
+
+# Setting up the password and lock screen text
+# Hardcoded password to unlock the system
+# Text to display on the lock screen
+# Number of attempts allowed for entering the correct password
+
+# File path for setting up startup functionality
+
+
+# Set the script to run at startup
+
+
+# Function to handle button clicks for numeric input
+
+
+# Function to handle the delete button click
+
+
+# Function to suppress any keyboard input
+
+
+# Function to check if the entered password is correct
+
+# Function to handle window close events
+
+
+# Configure the main window's appearance and properties
+
+
+# Create and display the lock screen labels and text
+
+
+# Heading for the announcement section
+
+# Text area showing a fake warning message about illegal content download
+
+
+# Procedure on how to "unlock" the computer
+
+# Fake steps for unlocking (this simulates a fake ransomware message)
+
+
+# Suppress any keyboard input
+
+
+# Create a vertical red line for design purposes
+
+
+# Password input field
+
+
+# Make sure the window cannot be resized
+
+
+# Make the window always stay on top
+
+
+# Force fullscreen mode and prevent the window from being closed
+
+
+# Create and place buttons for number input (0-9)
+
+
+
+# Create and place the delete and unlock buttons
+

