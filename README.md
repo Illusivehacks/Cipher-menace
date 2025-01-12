@@ -1,6 +1,6 @@
 CipherMenace: Secure Computer Lockdown Interface
 
-![GUI Screenshot]() 
+![GUI Screenshot](GUI.jpg) 
 
 
 📜 Project Overview
@@ -17,7 +17,7 @@ Custom Lock Message: Displays a bold and customizable lock message.
 🛠️ Installation
 Clone the Repository:
 bash
-````git clone https://github.com/your-username/cipher-menace.git````
+````git clone https://github.com/Illusivehacks/Cipher-menace.git````
 
 Navigate to the Project Directory:
 bash
@@ -37,11 +37,11 @@ Interact with the GUI to enter the password.
 
 Test features like limited attempts, custom messages, and system behavior.
 
-![GUI Screenshot](GUI.png) 
+![GUI Screenshot](GUI.jpg) 
 
 GUI Layout
 
-![GUI Screenshot](GUI.png) 
+![GUI Screenshot](output.jpg) 
 
 Output Results
 
