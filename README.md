@@ -1,6 +1,6 @@
 CipherMenace: Secure Computer Lockdown Interface
 
-Image showcasing the GUI of the application
+![GUI Screenshot]() 
 
 
 📜 Project Overview
@@ -17,34 +17,33 @@ Custom Lock Message: Displays a bold and customizable lock message.
 🛠️ Installation
 Clone the Repository:
 bash
+````git clone https://github.com/your-username/cipher-menace.git````
 
-git clone https://github.com/your-username/cipher-menace.git
 Navigate to the Project Directory:
 bash
+````cd cipher-menace````
 
-cd cipher-menace
 Install Dependencies:
 bash
-
-pip install -r requirements.txt
+````pip install -r requirements.txt````
 
 
 🚀 Usage
 Run the script:
 bash
+````python cipher_menace.py````
 
-python cipher_menace.py
 Interact with the GUI to enter the password.
 
 Test features like limited attempts, custom messages, and system behavior.
-🖼️ Screenshots
+
+![GUI Screenshot](GUI.png) 
+
 GUI Layout
 
-Caption: An example of the CipherMenace graphical user interface.
+![GUI Screenshot](GUI.png) 
 
 Output Results
-
-Caption: Example output showcasing the lock screen behavior and user interactions.
 
 ⚠️ Disclaimer
 CipherMenace is designed for educational and testing purposes only. It does not encrypt files or harm your system but may simulate a restricted environment. Use responsibly and ensure proper consent when testing on any device.
@@ -57,10 +56,11 @@ Simulated BSOD: Utilizes the bsod module for system behavior simulation after re
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
 
-Fork the repository.
-Create a feature branch.
-Commit your changes.
-Submit a pull request.
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Submit a pull request.
+
 📧 Contact
-For queries or support, reach out at youremail@example.com.
+For queries or support, reach out at williamkitungo@gmail.com.
 
