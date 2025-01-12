@@ -21,7 +21,7 @@ bash
 
 Navigate to the Project Directory:
 bash
-````cd cipher-menace````
+````cd ````
 
 Install Dependencies:
 bash
@@ -31,7 +31,7 @@ bash
 🚀 Usage
 Run the script:
 bash
-````python cipher_menace.py````
+````python ciphermenace.py````
 
 Interact with the GUI to enter the password.
 
